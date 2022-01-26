@@ -1,1 +1,1 @@
-# smart contract of Realize Coin
+# Smart contract of Realize Coin
